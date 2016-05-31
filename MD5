@@ -1,0 +1,13 @@
+78f5a6ec70de22dc9c37cc2d30217798 *DESCRIPTION
+e59611fd1fae21f933fa1d5ae806b433 *NAMESPACE
+9a91413bb6ea74eaf1b8abb4365e363e *R/rvsel.R
+7a5d5c9f7bb585d36d779514ac5dea9b *R/rvsel_Fsel.R
+6218ed0f2b12f63e6fe9818f12c3af46 *R/rvsel_adapted.R
+9039b317602b25fdce7c6a28d23d9985 *R/rvsel_backward.R
+7ad3e7af57d77012ff8d19cae1b4717e *R/rvsel_check.R
+bf03c07826502629d2bf6b328981f0a5 *R/rvsel_cmc.R
+d6648a2f94b82dc4cf8000008fba6087 *R/rvsel_exhaustive.R
+7307ec25e769330defa95ef3707ce58c *R/rvsel_forward.R
+aeeb5920cfed9c6a287e797f0fa330b3 *R/rvsel_sum.R
+eeae19485ffd524f1df235f4b52c80db *man/rvsel.Rd
+18acc2948a0e159cc06371b5498167b1 *src/rvsel.f90
